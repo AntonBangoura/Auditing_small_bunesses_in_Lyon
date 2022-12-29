@@ -5,7 +5,7 @@ Je le fais bénévolement, sur mon temps libre.
 
 ## Ma directive simplifiée se décompose en plusieurs phases:
 
-#### 1 - Identifier les actifs: établir une liste de tous les actifs, notamment les matériels (par exemple, ordinateurs, routeurs, systèmes de point de vente), les logiciels (par exemple, systèmes d'exploitation, applications) et les données (par exemple, informations sur les clients, dossiers financiers).
+#### 1 - Identifier les actifs: établir une liste de tous les actifs, notamment les matériels (par exemple, ordinateurs, routeurs, systèmes de point de vente), les logiciels (par exemple, systèmes d'exploitation, applications) et les données (par exemple, informations sur les clients, dossiers financiers). Je propose a l'entreprise un graphique fait avec GNS3.
 
 #### 2 - Évaluer les vulnérabilités: chercher des faiblesses dans le système qui pourraient être exploitées par des attaquants informatiques. Cela peut inclure des logiciels obsolètes, des mots de passe faibles et des vulnérabilités non corrigées. Associés à un audit du réseau, avec une attention particulière pour le wi-fi proposé.
 
